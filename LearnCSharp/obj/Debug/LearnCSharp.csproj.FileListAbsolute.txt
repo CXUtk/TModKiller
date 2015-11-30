@@ -1,0 +1,7 @@
+C:\Users\chen\Downloads\Visual Studio Projects\LearnCSharp\LearnCSharp\bin\Debug\Ionic.Zip.CF.dll
+C:\Users\chen\Downloads\Visual Studio Projects\LearnCSharp\LearnCSharp\bin\Debug\TmodKiller.exe.config
+C:\Users\chen\Downloads\Visual Studio Projects\LearnCSharp\LearnCSharp\bin\Debug\TmodKiller.exe
+C:\Users\chen\Downloads\Visual Studio Projects\LearnCSharp\LearnCSharp\bin\Debug\TmodKiller.pdb
+C:\Users\chen\Downloads\Visual Studio Projects\LearnCSharp\LearnCSharp\obj\Debug\TmodKiller.exe
+C:\Users\chen\Downloads\Visual Studio Projects\LearnCSharp\LearnCSharp\obj\Debug\TmodKiller.pdb
+C:\Users\chen\Downloads\Visual Studio Projects\LearnCSharp\LearnCSharp\obj\Debug\LearnCSharp.csprojResolveAssemblyReference.cache
